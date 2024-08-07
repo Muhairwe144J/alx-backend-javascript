@@ -25,6 +25,7 @@ module.exports = {
       'LabeledStatement',
       'WithStatement',
     ],
+	   'jest/unbound-method': 'off',
   },
   overrides:[
     {
